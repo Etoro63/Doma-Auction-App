@@ -19,9 +19,14 @@ Our submission addresses the goals of the selected track by:
 - [Recorded Demo & Walkthrough](https://@etoro-abasiudoh7789/your-demo-link)
 
 ### Relevant Links
-- [Frontend Source Code](https://github.com/et.org/doma-auction-frontend)
-- [Smart Contract Source Code](https://github.com/your-org/doma-auction-contracts)
+- [Frontend Source Code](https://github.com/etoro63/doma-auction-frontend)
+- [Smart Contract Source Code](https://github.com/etoro63/doma-auction-contracts)
 - [Doma Testnet Explorer](https://explorer.testnet.doma.network)
 
+
+### Team
+- Etoroabasi
+- Hillary
+- Obum 
 ---
 For any questions or support, reach out via X/Twitter or open an issue on GitHub.
