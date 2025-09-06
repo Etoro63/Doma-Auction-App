@@ -13,13 +13,13 @@ Our submission addresses the goals of the selected track by:
 - Demonstrating how Doma can be used for real-world asset tokenization and auctioning
 
 ### Social
-- Active X/Twitter: [@DomaAuction](https://twitter.com/DomaAuction)
+- Active X/Twitter: [@DomaAuction](https://Etoro_U.com/DomaAuction)
 
 ### Demo & Walkthrough
-- [Recorded Demo & Walkthrough](https://youtu.be/your-demo-link)
+- [Recorded Demo & Walkthrough](https://@etoro-abasiudoh7789/your-demo-link)
 
 ### Relevant Links
-- [Frontend Source Code](https://github.com/your-org/doma-auction-frontend)
+- [Frontend Source Code](https://github.com/et.org/doma-auction-frontend)
 - [Smart Contract Source Code](https://github.com/your-org/doma-auction-contracts)
 - [Doma Testnet Explorer](https://explorer.testnet.doma.network)
 
